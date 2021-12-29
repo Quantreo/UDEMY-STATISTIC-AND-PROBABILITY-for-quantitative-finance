@@ -13,8 +13,8 @@ Link to the course: https://www.udemy.com/course/statistics-and-probability-for-
 🖥️Quantreo's YouTube channel: https://www.youtube.com/channel/UCp7jckfiEglNf_Gj62VR0pw
 
 
-**What you will learn in this course:
-*** Find optimal stop loss & take profit using probability distribution
+**What you will learn in this course:**
+* Find optimal stop loss & take profit using probability distribution
 * Understand Student test and apply it to portfolio management problem
 * Use probability distribution to compute the Value at Risk (VaR)
 * Compute correlation between assets properly
